@@ -160,8 +160,8 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 ## 👤 Autor
 
 Seu Nome
-- GitHub: [@seu-usuario](https://github.com/JezzXL)
-- LinkedIn: [Seu Nome](https://www.linkedin.com/in/davydwillianp/)
+- GitHub: [@JezzXL](https://github.com/JezzXL)
+- LinkedIn: [Davyd Willian](https://www.linkedin.com/in/davydwillianp/)
 
 ## 🙏 Agradecimentos
 
