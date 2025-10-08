@@ -62,7 +62,7 @@ Layout adaptável para todos os dispositivos com sidebar retrátil.
 git clone https://github.com/JezzXL/Darshboard.git
 
 # Entre no diretório
-cd seu-repositorio
+cd darshboard
 
 # Instale as dependências
 npm install
@@ -160,8 +160,8 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 ## 👤 Autor
 
 Seu Nome
-- GitHub: [@seu-usuario](https://github.com/seu-usuario)
-- LinkedIn: [Seu Nome](https://linkedin.com/in/seu-perfil)
+- GitHub: [@seu-usuario](https://github.com/JezzXL)
+- LinkedIn: [Seu Nome](https://www.linkedin.com/in/davydwillianp/)
 
 ## 🙏 Agradecimentos
 
@@ -171,5 +171,4 @@ Seu Nome
 - [Recharts](https://recharts.org/)
 
 ---
-
 ⭐ Se este projeto te ajudou, considere dar uma estrela no repositório!
