@@ -5,6 +5,7 @@ import Sidebar from "./components/Sidebar";
 import Dashboard from "./pages/Dashboard";
 import Users from "./pages/Users";
 import Analytics from "./pages/Analytics";
+import Settings from "./pages/Settings";
 
 function App() {
   const [isSidebarOpen, setIsSidebarOpen] = useState<boolean>(false);
@@ -48,16 +49,7 @@ function App() {
               <Route path="/" element={<Dashboard />} />
               <Route path="/users" element={<Users />} />
               <Route path="/analytics" element={<Analytics />} />
-              <Route
-                path="/settings"
-                element={
-                  <div className="p-6">
-                    <h1 className="text-3xl font-bold">
-                      Configurações (Em Desenvolvimento)
-                    </h1>
-                  </div>
-                }
-              />
+              <Route path="/settings" element={<Settings />} />
             </Routes>
           </main>
         </div>
