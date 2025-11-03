@@ -2,6 +2,8 @@
 
 Dashboard administrativo completo e responsivo desenvolvido com React 19, TypeScript e Tailwind CSS v4. Interface moderna com suporte a tema dark/light, visualização de métricas em tempo real, gráficos interativos e sistema de gerenciamento de usuários.
 
+[🌐 Ver Demo](https://dashboard-woad-nu.vercel.app/) • [📧 Contato](mailto:davydsantos.gt@gmail.com) • [💼 LinkedIn](https://www.linkedin.com/in/davydwillianp/)
+
 ![React](https://img.shields.io/badge/React-19.1-61DAFB?logo=react&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.9-3178C6?logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4.1-06B6D4?logo=tailwindcss&logoColor=white)
@@ -205,6 +207,27 @@ npm run build        # Cria build de produção
 npm run preview      # Preview do build
 npm run lint         # Executa ESLint
 ```
+
+## 📸 Screenshots
+
+### Dashboard
+![Dashboard](./screenshots/dashboard.PNG)
+
+### Usuários
+![Usuários](./screenshots/usuarios.PNG)
+
+### Análises
+![Análises](./screenshots/analises.PNG)
+
+### Configurações
+![Configurações](./screenshots/config.PNG)
+
+### Dark Mode
+![Dark Mode](./screenshots/dark-mode.PNG)
+
+
+
+---
 
 ## 🎯 Roadmap
 
